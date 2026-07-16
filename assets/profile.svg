@@ -1,0 +1,26 @@
+<svg width="720" height="900" viewBox="0 0 720 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" rx="48" fill="#07111E"/>
+  <rect x="26" y="26" width="668" height="848" rx="40" stroke="#5FE2FF" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="360" cy="315" r="180" fill="url(#paint0_radial)"/>
+  <path d="M240 706C252 585 313 515 360 515C407 515 468 585 480 706" stroke="#82E7FF" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="360" cy="314" rx="130" ry="158" fill="#0F223C"/>
+  <path d="M231 333C231 210 304 142 360 142C416 142 489 208 489 333C489 400 454 468 360 468C266 468 231 401 231 333Z" fill="#0D1B34"/>
+  <path d="M300 268C300 224 331 197 360 197C389 197 420 224 420 268V291C420 332 392 364 360 364C328 364 300 332 300 291V268Z" fill="#FFD3B6"/>
+  <path d="M275 315C275 274 306 244 344 244H376C414 244 445 274 445 315V325C445 365 417 396 377 396H343C303 396 275 365 275 325V315Z" fill="#F2C29A"/>
+  <path d="M274 309C274 255 315 210 369 210C423 210 464 255 464 309V354C464 392 438 423 402 434L376 443L349 434C313 423 287 392 287 354V309H274Z" fill="#112D4D"/>
+  <path d="M286 280C303 237 330 214 360 214C390 214 417 237 434 280" stroke="#0E233A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M302 262L257 241" stroke="#0E233A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M418 262L463 241" stroke="#0E233A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="319" cy="320" r="10" fill="#081525"/>
+  <circle cx="401" cy="320" r="10" fill="#081525"/>
+  <path d="M330 390C347 405 373 405 390 390" stroke="#E78A67" stroke-width="10" stroke-linecap="round"/>
+  <path d="M241 155C256 128 286 110 320 110H407C441 110 472 128 487 155L502 183" stroke="#54D4F3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M219 167C203 190 193 221 193 255V298" stroke="#5FE2FF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M501 167C517 190 527 221 527 255V298" stroke="#5FE2FF" stroke-width="10" stroke-linecap="round"/>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(360 315) rotate(90) scale(180)">
+      <stop stop-color="#0B284B"/>
+      <stop offset="1" stop-color="#041119"/>
+    </radialGradient>
+  </defs>
+</svg>
